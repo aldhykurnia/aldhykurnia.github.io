@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #adf7ce;
+  font-style: bold;
+}
+
+#projects {
+  background-color: #adf7ce;
+}
+
+section {
+  padding-top: 5rem;
+}
+.about {
+  font-style: italic;
+}
